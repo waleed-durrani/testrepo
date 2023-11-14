@@ -1,0 +1,18 @@
+repo_name: waleed-durrani/testrepo
+report_id: 488ff426f719cb4f54d1786e82e74820
+repo_type: Public
+timestamp: '2023-11-14T06:26:04+00:00'
+requested_by: waleed-durrani
+provider: github
+branch: master
+detected_tools_count: 1
+tools:
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
